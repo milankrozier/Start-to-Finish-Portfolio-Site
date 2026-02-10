@@ -1,4 +1,33 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
+body {
+    background: #EDEDED;
+    margin-top: 100px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.info { 
+    background: #EDEDED;
+    color: #353535;
+    margin: 0 auto;
+    width: 1314px;
+    height: 837px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+}
+
+.info div {
+    padding: 20px;
+}
+
+h1 {
+    background: #D62F61;
+    color: #EDEDED;
+    margin: 0;
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
 }
