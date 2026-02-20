@@ -3,6 +3,7 @@ body {
     background: #EDEDED;
     margin: 0;
     font-family: Helvetica, Arial, sans-serif;
+    padding-bottom: 245px
 }
 
 h1 {
@@ -20,7 +21,7 @@ h2 {
     font-size: 64px;
     margin-top: 70px;
     margin-left: 400px;
-    margin-right: 200px;
+    margin-right: 400px;
     text-align: center;
     max-width: 1000px;
 
@@ -33,7 +34,7 @@ img {
     padding: 30px;
     width: 300px;
     height: auto;
-    margin-top: 90px;
+    margin-top: 5px;
     margin-left: 350px;
 
 }
@@ -53,6 +54,7 @@ p {
     margin: 0;
     font-size: 30px;
     margin-right: 250px;
+    line-height: 1.3;
 
 }
 
